@@ -8,8 +8,7 @@ Entra ID.
 <br />
 <h2>Environments and Technologies Used</h2>
 - Microsoft Azure Entra ID
-<h2>Operating Systems Used </h2>
-- Windows 11
+
 <h2>Conditional Access </h2>
 <p>
 Conditional Access is a feature in Microsoft Entra ID that allows organizations to control how users access applications and resources based on specify  conditions. Follows a if-then concept. For example,<h2>IF </h2> Employee signs into Microsoft 365 from an unfamiliar location,<h2>THEN </h2> Multifactor Authentication (MFA) is required before granting access. 
